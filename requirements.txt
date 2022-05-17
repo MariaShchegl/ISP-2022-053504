@@ -1,0 +1,5 @@
+pytoml==0.1.21
+PyYAML~=5.3.1
+pip~=21.3.1
+wheel~=0.37.1
+setuptools~=60.2.0
